@@ -1,0 +1,37 @@
+{
+    "canvas": {
+        "aspectNum": 16,
+        "aspectDen": 9,
+        "fov": 90
+    },
+    "displays": [
+        {
+            "index": 1,
+            "canvasOffsetX": 0.0,
+            "canvasOffsetY": 0.0,
+            "canvasWidth": 0.5,
+            "canvasHeight": 0.5
+        },
+        {
+            "index": 0,
+            "canvasOffsetX": 0.0,
+            "canvasOffsetY": 0.5,
+            "canvasWidth": 0.5,
+            "canvasHeight": 0.5
+        },
+        {
+            "index": 3,
+            "canvasOffsetX": 0.5,
+            "canvasOffsetY": 0.0,
+            "canvasWidth": 0.5,
+            "canvasHeight": 0.5
+        },
+        {
+            "index": 2,
+            "canvasOffsetX": 0.5,
+            "canvasOffsetY": 0.5,
+            "canvasWidth": 0.5,
+            "canvasHeight": 0.5
+        }
+    ]
+}

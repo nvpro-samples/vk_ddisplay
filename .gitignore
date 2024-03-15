@@ -1,0 +1,7 @@
+.vs/
+.vscode/
+build/
+spv/
+imgui.ini
+log_vk_ddisplay.txt
+_autogen/*

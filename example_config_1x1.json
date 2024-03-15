@@ -1,0 +1,10 @@
+{
+    "canvas": {
+        "aspectNum": 16,
+        "aspectDen": 9,
+        "fov": 90
+    },
+    "displays": [
+        0
+    ]
+}
