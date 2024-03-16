@@ -87,7 +87,7 @@ If there are missing dependencies (e.g. glfw), run `git submodule update --init 
 
 Then start the generated `.sln` in VS or run `make -j`.
 
-Run `../../bin_x64/Release/vk_ddisplay.exe
+Run `../../bin_x64/Release/vk_ddisplay.exe`
 
 You are advised not to run the debug build unless you have the required validation layers.
 
