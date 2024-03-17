@@ -46,7 +46,7 @@ Please note that `configureMosaic.exe` needs administrator privileges.
 
 When using Mosaic to combine multiple displays into one virtual display, only that single virtual display is visible to Windows and thus can be removed from the desktop. When not using Mosaic, each physical display can be removed individually (except for the last one).
 
-Displays can be queried, removed from, and returned to the desktop with [configureDDisplay.exe FIXME](https://www.nvidia.com/en-us/drivers/<FIXMEEEEE>/). To begin, call `.\configureDDisplay.exe status` to query the current system topology. A typical output may look like this.
+Displays can be queried, removed from, and returned to the desktop with [configureDDisplay.exe (available soon)](https://www.nvidia.com/en-us/drivers/). To begin, call `.\configureDDisplay.exe status` to query the current system topology. A typical output may look like this.
 
 ```
 Display Adapters
